@@ -1,6 +1,6 @@
 ### For code reviewers
 
-All `wasm` files in that directory where created by compiling the
+All `wasm` files in that directory were created by compiling the
 corresponding `wat` file using the command (using `hntrie.wat`/`hntrie.wasm`
 as example):
 
